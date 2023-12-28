@@ -1,3 +1,11 @@
+<html>
+<head>
+<style>
+h1 {
+  text-align: center;
+}
+</style>
+</head>
 <body>
   <i><h1>Stray Kids</h1></i>
   <img src="https://lv2-cdn.azureedge.net/straykids/0611021d714948388f19cce9635539ce-09%20%EB%8B%A8%EC%B2%B4-1_019_13971-F2.jpg" alt="Straykids">
@@ -22,3 +30,4 @@
       <li>Christmas EveL</li>
       </ol>
       </body>
+</html>
