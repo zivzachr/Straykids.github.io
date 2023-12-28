@@ -1,8 +1,8 @@
 <body>
   <i><h1>Stray Kids</h1></i>
-  <img https://lv2-cdn.azureedge.net/straykids/0611021d714948388f19cce9635539ce-09%20%EB%8B%A8%EC%B2%B4-1_019_13971-F2.jpg>
-  <p>The most famous 4th gen group for real!!</p>
-  <p>Check <a hrep="https://straykids.jype.com/"> <u>here</u></a> for their website</p>
+  <img src="https://lv2-cdn.azureedge.net/straykids/0611021d714948388f19cce9635539ce-09%20%EB%8B%A8%EC%B2%B4-1_019_13971-F2.jpg" alt="Straykids">
+  <p>Literally the most energetic and superb 4th gen group!!</p>
+  <p>Check <a href="https://straykids.jype.com/"> <u>here</u></a> for their website</p>
   <ul>
     <li>Bangchan-[Leader, Producer, Vocalist, Dancer, Rapper]</li>
     <li>Lee know-[Dance Leader, Dancer, Vocalist, Rapper]</li>
