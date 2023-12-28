@@ -35,3 +35,4 @@ h1 {
    <p>Check <a href="https://straykids.jype.com/"> <u>here</u></a> for their website</p>
       </body>
 </html>
+theme: jekyll-theme-theme-hacker
