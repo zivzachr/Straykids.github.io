@@ -12,6 +12,7 @@ h1 {
   <b><p>Stray Kids, formed by JYP Entertainment, is a dynamic South Korean boy group that has left an indelible mark on the K-pop world.Stray Kids has garnered widespread acclaim for their powerful performances, intricate choreography, and distinctive music style.</p></b>
   <br>
   <ul>
+    <b><u><p>Members</p></u></b>
     <li>Bangchan-[Leader, Producer, Vocalist, Dancer, Rapper]</li>
     <li>Lee know-[Dance Leader, Dancer, Vocalist, Rapper]</li>
     <li>Changbin-[Rapper, Vocalist, Producer]</li>
@@ -22,7 +23,7 @@ h1 {
     <li>I.N-[Vocalist, Maknae]</li>
     </ul>
     <ul>
-      <p>Latest title songs</p>
+  <u><b><p>Latest title songs</p></b></u>
       <li> <a href="https://youtu.be/dBDkYofMUs4?si=CvKo3W7gwPnc9NV2">LALALALA</a></li>
       <li> <a href="https://youtu.be/JsOOis4bBFg?si=Y2OI-B2_fEogt4Eg">S-Class</a></li>
       <li> <a href="https://youtu.be/jYSlpC6Ud2A?si=Ot9VUSD83o1MbbT3">Case 143</a></li>
