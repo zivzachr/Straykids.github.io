@@ -9,6 +9,7 @@ h1 {
 <body>
   <i><h1>Stray Kids</h1></i>
   <img src="https://lv2-cdn.azureedge.net/straykids/0611021d714948388f19cce9635539ce-09%20%EB%8B%A8%EC%B2%B4-1_019_13971-F2.jpg" alt="Straykids">
+  <br>
   <b><p>Stray Kids, formed by JYP Entertainment, is a dynamic South Korean boy group that has left an indelible mark on the K-pop world.Stray Kids has garnered widespread acclaim for their powerful performances, intricate choreography, and distinctive music style.</p></b>
   <br>
   <ul>
