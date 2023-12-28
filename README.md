@@ -1,13 +1,8 @@
-<html>
-<head>
-<style>
-    h1 {
-  text-align: center;
-}
-</head>    
-</style>
 <body>
-  <i><h1>Stray Kids(center)</h1></i>
+  <i><h1>Stray Kids</h1></i>
+    h1{
+    tect align: center;
+    }
   <img src="https://lv2-cdn.azureedge.net/straykids/0611021d714948388f19cce9635539ce-09%20%EB%8B%A8%EC%B2%B4-1_019_13971-F2.jpg" alt="Straykids">
   <p>Literally the most energetic and superb 4th gen group!!</p>
   <p>Check <a href="https://straykids.jype.com/"> <u>here</u></a> for their website</p>
@@ -30,4 +25,3 @@
       <li>Christmas EveL</li>
       </ol>
       </body>
-</html>
