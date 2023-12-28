@@ -23,6 +23,7 @@ h1 {
     </ul>
     <ol>
       <p>Latest title songs</p>
+      <p>check out their new songs</p>
       <li>LALALALA</li> <a href="https://youtu.be/dBDkYofMUs4?si=CvKo3W7gwPnc9NV2">
       <li>S-Class</li> <a href="https://youtu.be/JsOOis4bBFg?si=Y2OI-B2_fEogt4Eg">
       <li>Case 143</li> <a href="https://youtu.be/jYSlpC6Ud2A?si=Ot9VUSD83o1MbbT3">
