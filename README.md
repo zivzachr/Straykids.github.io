@@ -23,11 +23,11 @@ h1 {
     </ul>
     <ol>
       <p>Latest title songs</p>
-      <li>LALALALA</li>
-      <li>S-Class</li>
-      <li>Case 143</li>
-      <li>Maniac</li>
-      <li>Christmas EveL</li>
+      <li>LALALALA</li><a href="https://youtu.be/dBDkYofMUs4?si=CvKo3W7gwPnc9NV2">
+      <li>S-Class</li><a href="https://youtu.be/JsOOis4bBFg?si=Y2OI-B2_fEogt4Eg">
+      <li>Case 143</li><a href="https://youtu.be/jYSlpC6Ud2A?si=Ot9VUSD83o1MbbT3">
+      <li>Maniac</li><a href="https://youtu.be/OvioeS1ZZ7o?si=M5rtbp-ZPKycOkxk">
+      <li>Christmas EveL</li><a href="https://youtu.be/57n4dZAPxNY?si=dGEyd9ilQL9r_P97">
       </ol>
       </body>
 </html>
