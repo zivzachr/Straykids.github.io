@@ -3,6 +3,7 @@
 <style>
 h1 {
   text-align: center;
+  font-family: 'Times New Roman', serif;
 }
 </style>
 </head>
