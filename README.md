@@ -32,7 +32,6 @@ h1 {
       <li> <a href="https://youtu.be/57n4dZAPxNY?si=dGEyd9ilQL9r_P97">christmas Evel</a></li>
       </ul>
   <br>
-   <p>Check <a href="https://straykids.jype.com/"> <u>here</u></a> for their website</p>
+   <p>Check <a href="https://straykids.jype.com/"> <u>here</u></a> for their website!!</p>
       </body>
 </html>
-theme: jekyll-theme-theme-hacker
